@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jhordy Toro</h1>
 <h3 align="center">Me apasiona la programacion en todos los sentidos ya sea para el desarrollo de paginas web o la creasion de inteligencia artificial.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhordytoro" alt="jhordytoro" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=jhordyToro-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="jhordytoro" /></a> </p>
 
 - 🌱 I’m currently learning **Django,Desarrollo Backend,Bases de Datos**
 
