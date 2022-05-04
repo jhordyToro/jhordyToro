@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jhordy Toro</h1>
-<h3 align="center">Me apasiona la programacion en todos los sentidos ya sea para el desarrollo de paginas web o la creación de inteligencia artificial.</h3>
+<h3 align="center">I am passionate about programming in every way, whether it is for the development of web pages or the creation of artificial intelligence.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhordytoro" alt="jhordytoro" /></a> </p>
 
-- 🌱 I’m currently learning **Django,Desarrollo Backend,Bases de Datos**
+- 🌱 I’m currently learning **Django,Backend develoment,DataBase**
 
-- 💬 Ask me about **si tienes alguna duda sobre Python,Bases de datos, etc... no dudes en preguntarme :D**
+- 💬 Ask me about **If you have any questions about Python, Databases, etc... don't hesitate to ask me :D**
 
 - 📫 How to reach me **jhordytoro49@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jhordy_toro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jhordy_toro" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jhordy-toro-arroyo-34212322a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhordy toro arroyo" height="30" width="40" /></a>
-<a href="https://www.facebook.com/jhordy.toroarroyo.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhordy toro arroyo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jhordy toro arroyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhordy toro arroyo" height="30" width="40" /></a>
+<a href="https://fb.com/jhordy toro arroyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhordy toro arroyo" height="30" width="40" /></a>
 <a href="https://instagram.com/jhordy_0220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jhordy_0220" height="30" width="40" /></a>
 </p>
 
@@ -23,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhordytoro&show_icons=true&locale=en&layout=compact" alt="jhordytoro" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhordytoro&show_icons=true&locale=en" alt="jhordytoro" /></p>
-
