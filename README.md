@@ -32,4 +32,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhordytoro&layout=compact&theme=tokyonight)](https://github.com/esteban180sx)
 
   
- ![](./svg/github-user-contribution.svg)
+ ![](https://github.com/JuanPerdomo00/JuanPerdomo00/blob/main/svg/github-user-contribution.svg)
