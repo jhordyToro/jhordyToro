@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=009A26&center=verdadero&vCenter=verdadero&lines=Hi%2C+My+name+is+Jhordy+%3AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=6000&color=009A26&center=verdadero&vCenter=verdadero&lines=Hi%2C+My+name+is+jhordy+%3AD)](https://git.io/typing-svg)
 <h3 align="center">I am passionate about programming in every way, whether it is for the development of web pages or the creation of artificial intelligence.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhordytoro" alt="jhordytoro" /></a> </p>
